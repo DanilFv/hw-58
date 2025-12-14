@@ -33,6 +33,7 @@ const App = () => {
                  <Alert
                     type='primary'
                     onDismiss={closeAlert}
+                    show={showAlert}
                  >
                     This is a success type alert
                  </Alert>
