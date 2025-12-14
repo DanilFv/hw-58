@@ -3,3 +3,4 @@ export interface IBtn {
     label: string;
     onClick: () => void;
 }
+
